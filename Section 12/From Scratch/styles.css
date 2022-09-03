@@ -1,0 +1,54 @@
+
+.container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice{
+    text-align: center;
+    display: inline-block;
+    padding: 5%;
+    color: #39FF14;
+    font-family: 'Neonderthaw', cursive;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+hr{
+    background-color: #39FF14;
+    height: 2px;
+    border: none;
+    border-radius: 50%;
+    
+
+}
+
+
+
+
+body{
+    background-color: black;
+}
+
+h1{
+    color:  #39FF14;
+    font-family: 'Neonderthaw', cursive;
+    font-weight: 400;
+    font-size: 5rem;
+}
+
+h2{
+    color:  #39FF14;
+    font-family: 'Neonderthaw', cursive;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+#player1{
+    visibility: visible;
+}
+
+#player2{
+    visibility: visible;
+}
